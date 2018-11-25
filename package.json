@@ -1,4 +1,13 @@
 {
 	"name": "@jtarcza/tiny",
-	"version": "1.0.0"
+	"version": "1.0.1",
+	"description": "Learning npm modules",
+	"license": "MIT",
+	"repository": "jtarcza/tiny",
+	"main": "index.js",
+	"keywords": [
+		"tiny",
+		"test",
+		"ignoreme"
+	]
 }
